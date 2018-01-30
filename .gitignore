@@ -1,0 +1,16 @@
+.out
+.nyc_output
+.vscode-test
+dist
+
+# Node
+.npm
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System
+.DS_Store

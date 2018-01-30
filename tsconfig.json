@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": ["es6"],
+    "module": "commonjs",
+    "outDir": ".out/dist",
+    "sourceMap": true,
+    "target": "es6",
+    "types": ["node", "mocha"]
+  },
+  "exclude": ["node_modules", ".vscode-test"]
+}
